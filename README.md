@@ -5,7 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3500&pause=1200&color=FF4B4B&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shreyanshu+Maahesh" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Sh3720&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
+
+<p align="center">
+  <code>while (alive) { keep_learning(); }</code>
+</p>
+
 
 </div>
 
