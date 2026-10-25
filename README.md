@@ -82,8 +82,13 @@ Learning by creating.
 
 ## CONTRIBUTION ACTIVITY
 
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Sh3720&show_icons=true&hide_border=true&theme=default)](https://github.com/Sh3720)
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sh3720/Sh3720/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sh3720/Sh3720/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sh3720/Sh3720/output/github-snake.svg" />
+  </picture>
+</p>
 ---
 
 <div align="center">
