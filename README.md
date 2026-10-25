@@ -54,18 +54,15 @@ Learning by creating.
 
 ---
 
+
 ## GITHUB STATS
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sh3720&show_icons=true&hide_border=true&theme=default&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sh3720&show_icons=true&hide_border=true&theme=default&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true" alt="GitHub statistics" />
+  <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh3720&layout=compact&hide_border=true&theme=default&title_color=9B59B6" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh3720&theme=default&hide_border=true&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub contribution streak" />
-
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh3720&theme=default&hide_border=true&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -89,7 +86,6 @@ Learning by creating.
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sh3720/Sh3720/output/github-snake.svg" />
   </picture>
 </p>
----
 
 <div align="center">
 
